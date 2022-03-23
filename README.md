@@ -2,6 +2,8 @@
 - 🌱 I’m currently learning more about coding.
 - 📫 How to reach me 👉 **ktchsur@gmail.com**
 
+<h3 align="center">A passionate software engineering.</h3>
+
 <p align="left">
 </p>
 
