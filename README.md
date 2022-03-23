@@ -1,8 +1,9 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kotchakorn.
-- 🌱 I’m currently learning more about coding.
-- 📫 How to reach me 👉 **ktchsur@gmail.com**
 
 <h3 align="left">A passionate in software engineering.</h3>
+
+- 🌱 I’m currently learning more about coding.
+- 📫 How to reach me 👉 **ktchsur@gmail.com**
 
 <p align="left">
 </p>
